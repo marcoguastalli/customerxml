@@ -9,7 +9,7 @@ mvn clean integration-test
 mvn clean spring-boot:run
 
 # swagger
-http://localhost:8090/swagger-ui.html
+http://localhost:8080/swagger-ui.html
 
 ### play
 get the Oracle DDBB VirtualBox IP and configure it
